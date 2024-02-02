@@ -26,8 +26,11 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
+  margin: auto;
+  display: flex;
+  align-items: center;
 }
 img {
-    max-width: 20%;
-    margin-top: 5rem;
+  max-width: 20%;
+  margin-bottom: 5rem;
 }
