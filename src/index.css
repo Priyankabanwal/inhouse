@@ -34,3 +34,11 @@ img {
   max-width: 20%;
   margin-bottom: 5rem;
 }
+
+@media only screen and (max-width:767px){
+
+  img {
+    max-width: 40%;
+    margin-bottom: 2rem;
+  }
+}
