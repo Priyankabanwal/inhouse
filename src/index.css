@@ -41,4 +41,7 @@ img {
     max-width: 40%;
     margin-bottom: 2rem;
   }
+  p {
+      max-width: 90%;
+  }
 }
